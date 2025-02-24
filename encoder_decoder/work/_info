@@ -1,0 +1,418 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/karti/OneDrive/Desktop/VLSI
+Eandgate
+Z0 w1739783159
+!i122 1
+Z1 dC:/Users/karti/OneDrive/Desktop/VLSI/encoder_decoder
+Z2 8C:/Users/karti/OneDrive/Desktop/VLSI/encoder_decoder/gates.vhd
+Z3 FC:/Users/karti/OneDrive/Desktop/VLSI/encoder_decoder/gates.vhd
+l0
+L1 1
+Vb6HhFNB5L9EC8e9[SLg?K3
+!s100 PDgcoP:P5]o6e0Y;Yd5MH1
+Z4 OV;C;2020.1;71
+32
+Z5 !s110 1739783162
+!i10b 1
+Z6 !s108 1739783162.000000
+Z7 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/karti/OneDrive/Desktop/VLSI/encoder_decoder/gates.vhd|
+Z8 !s107 C:/Users/karti/OneDrive/Desktop/VLSI/encoder_decoder/gates.vhd|
+!i113 1
+Z9 o-work work -2002 -explicit
+Z10 tExplicit 1 CvgOpt 0
+Aabc
+DEx4 work 7 andgate 0 22 b6HhFNB5L9EC8e9[SLg?K3
+!i122 1
+l6
+L5 4
+V76Pm;VYl]OJYFKMO>fzz43
+!s100 SAKJ2j1loDcdabYN1V?1M1
+R4
+32
+R5
+!i10b 1
+R6
+R7
+R8
+!i113 1
+R9
+R10
+Edecode
+Z11 w1739783203
+!i122 4
+R1
+Z12 8C:/Users/karti/OneDrive/Desktop/VLSI/decoder.vhd
+Z13 FC:/Users/karti/OneDrive/Desktop/VLSI/decoder.vhd
+l0
+L1 1
+VSf8519oim;n:>L>5mmOGL3
+!s100 m;iF:?lf>Pa:Jm@cS@WS:1
+R4
+32
+Z14 !s110 1739783207
+!i10b 1
+Z15 !s108 1739783207.000000
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/karti/OneDrive/Desktop/VLSI/decoder.vhd|
+Z17 !s107 C:/Users/karti/OneDrive/Desktop/VLSI/decoder.vhd|
+!i113 1
+R9
+R10
+Aabc
+DEx4 work 6 decode 0 22 Sf8519oim;n:>L>5mmOGL3
+!i122 4
+l6
+L5 8
+V>ZgmzdL<g9lV]IUGaWWKU1
+!s100 g3<faHTk@HJLIG;>3GFPh1
+R4
+32
+R14
+!i10b 1
+R15
+R16
+R17
+!i113 1
+R9
+R10
+Edecodestruc
+Z18 w1739783346
+!i122 5
+R1
+Z19 8C:/Users/karti/OneDrive/Desktop/VLSI/encoder_decoder/decod_struc.vhd
+Z20 FC:/Users/karti/OneDrive/Desktop/VLSI/encoder_decoder/decod_struc.vhd
+l0
+L1 1
+VmX]7mAd8jJWA>YAVP[n4[2
+!s100 cBE4QIIJ>Y=8TacKGI>Rj2
+R4
+32
+Z21 !s110 1739783350
+!i10b 1
+Z22 !s108 1739783350.000000
+Z23 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/karti/OneDrive/Desktop/VLSI/encoder_decoder/decod_struc.vhd|
+!s107 C:/Users/karti/OneDrive/Desktop/VLSI/encoder_decoder/decod_struc.vhd|
+!i113 1
+R9
+R10
+Astructural
+DEx4 work 11 decodestruc 0 22 mX]7mAd8jJWA>YAVP[n4[2
+!i122 5
+l29
+L9 64
+V@@@0>IS[KSRB7Pjb9_`A31
+!s100 ;I;[B_H<l?BXFen<0Q@l92
+R4
+32
+R21
+!i10b 1
+R22
+R23
+Z24 !s107 C:/Users/karti/OneDrive/Desktop/VLSI/encoder_decoder/decod_struc.vhd|
+!i113 1
+R9
+R10
+Edecodestruc_tb
+R18
+!i122 5
+R1
+R19
+R20
+l0
+L74 1
+VEPYi30[1ND_]=oI5cDOnf3
+!s100 i2;ldOhC8HMgV>[Lbh3Ub1
+R4
+32
+R21
+!i10b 1
+R22
+R23
+R24
+!i113 1
+R9
+R10
+Aabc
+DEx4 work 14 decodestruc_tb 0 22 EPYi30[1ND_]=oI5cDOnf3
+!i122 5
+l90
+L77 39
+VoJb0J_b?7UQCQN@a@QVcG2
+!s100 S;;X2KL6]VmjDE5G44h373
+R4
+32
+R21
+!i10b 1
+R22
+R23
+R24
+!i113 1
+R9
+R10
+Eencode
+Z25 w1739783089
+!i122 0
+R1
+Z26 8C:/Users/karti/OneDrive/Desktop/VLSI/encoder_decoder/encoder.vhd
+Z27 FC:/Users/karti/OneDrive/Desktop/VLSI/encoder_decoder/encoder.vhd
+l0
+L1 1
+V?]6A[57X4oIeE?Jh<E?Pk3
+!s100 =4:6M@9UjN2gdD^Q_zW?M2
+R4
+32
+Z28 !s110 1739783093
+!i10b 1
+Z29 !s108 1739783092.000000
+Z30 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/karti/OneDrive/Desktop/VLSI/encoder_decoder/encoder.vhd|
+Z31 !s107 C:/Users/karti/OneDrive/Desktop/VLSI/encoder_decoder/encoder.vhd|
+!i113 1
+R9
+R10
+Aabc
+DEx4 work 6 encode 0 22 ?]6A[57X4oIeE?Jh<E?Pk3
+!i122 0
+l6
+L5 6
+V73z]dP>C[>LbSa=2^QG4E1
+!s100 UVIF3@M8HBjAnF2@RbCQ_3
+R4
+32
+R28
+!i10b 1
+R29
+R30
+R31
+!i113 1
+R9
+R10
+Eencodetest
+R25
+!i122 0
+R1
+R26
+R27
+l0
+L12 1
+VULRcAg9Xhcb>NMg8o`b1T1
+!s100 b9o27z<XB>ml[`ePQf4;j0
+R4
+32
+R28
+!i10b 1
+R29
+R30
+R31
+!i113 1
+R9
+R10
+Axyz
+DEx4 work 10 encodetest 0 22 ULRcAg9Xhcb>NMg8o`b1T1
+!i122 0
+l23
+L15 25
+V^S1fY1>9WWAgfe@eVVT>63
+!s100 PnoRJVS>^Wme5o_`ISScP2
+R4
+32
+R28
+!i10b 1
+R29
+R30
+R31
+!i113 1
+R9
+R10
+Eencstruc
+Z32 w1739783133
+!i122 2
+R1
+Z33 8C:/Users/karti/OneDrive/Desktop/VLSI/encoder_decoder/encod_struc.vhd
+Z34 FC:/Users/karti/OneDrive/Desktop/VLSI/encoder_decoder/encod_struc.vhd
+l0
+L1 1
+VeJUQQzTa7N95U`A2eHo3N1
+!s100 RI3`Na8@_C;<6R<L?6QYN1
+R4
+32
+Z35 !s110 1739783171
+!i10b 1
+Z36 !s108 1739783171.000000
+Z37 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/karti/OneDrive/Desktop/VLSI/encoder_decoder/encod_struc.vhd|
+Z38 !s107 C:/Users/karti/OneDrive/Desktop/VLSI/encoder_decoder/encod_struc.vhd|
+!i113 1
+R9
+R10
+Astructural
+DEx4 work 8 encstruc 0 22 eJUQQzTa7N95U`A2eHo3N1
+!i122 2
+l12
+L6 11
+V2dgZ@3cJ7G]Wj19Pe@CJI2
+!s100 hR=WRIb_YOcMLTF5KZe=P0
+R4
+32
+R35
+!i10b 1
+R36
+R37
+R38
+!i113 1
+R9
+R10
+Enotgate
+R0
+!i122 1
+R1
+R2
+R3
+l0
+L10 1
+V8hKC<iEa?2oDbKTAK3Bme1
+!s100 39NB934AYDo06F7XCSM8=0
+R4
+32
+R5
+!i10b 1
+R6
+R7
+R8
+!i113 1
+R9
+R10
+Awxy
+DEx4 work 7 notgate 0 22 8hKC<iEa?2oDbKTAK3Bme1
+!i122 1
+l17
+L16 4
+VEgfQj2VCBD9gm53lGlgZd1
+!s100 dc3z6M:f_70hd_UTEMgOX2
+R4
+32
+R5
+!i10b 1
+R6
+R7
+R8
+!i113 1
+R9
+R10
+Eorgate
+R0
+!i122 1
+R1
+R2
+R3
+l0
+L22 1
+VKlJNn@HU36]XzH^F;W<c93
+!s100 PT>ATgk`doRn=F[FEoSch0
+R4
+32
+R5
+!i10b 1
+R6
+R7
+R8
+!i113 1
+R9
+R10
+Adec
+DEx4 work 6 orgate 0 22 KlJNn@HU36]XzH^F;W<c93
+!i122 1
+l27
+L26 5
+VcR9ekH[Pm1[OL3:f`G3Jm0
+!s100 ddzePf@5;GO7zd`0SID993
+R4
+32
+R5
+!i10b 1
+R6
+R7
+R8
+!i113 1
+R9
+R10
+Etestb_decode
+R11
+!i122 4
+R1
+R12
+R13
+l0
+L14 1
+VS[oaoUQzMoj75jATnm<NQ3
+!s100 UIzJPM6nV3Q64<]NY1DoB1
+R4
+32
+R14
+!i10b 1
+R15
+R16
+R17
+!i113 1
+R9
+R10
+Awyx
+DEx4 work 12 testb_decode 0 22 S[oaoUQzMoj75jATnm<NQ3
+!i122 4
+l24
+L17 18
+Vi0V8Cn:jI9`LMJH<@ZhHX2
+!s100 ULgT<TZ8RnFb9^kJBS29G2
+R4
+32
+R14
+!i10b 1
+R15
+R16
+R17
+!i113 1
+R9
+R10
+Etestb_encode
+R32
+!i122 2
+R1
+R33
+R34
+l0
+L19 1
+V65SmQHW3e<cLZWKZ=K=ml3
+!s100 NSi9LIHH7ij<@3e:V_X8X0
+R4
+32
+R35
+!i10b 1
+R36
+R37
+R38
+!i113 1
+R9
+R10
+Aabc
+DEx4 work 12 testb_encode 0 22 65SmQHW3e<cLZWKZ=K=ml3
+!i122 2
+l33
+L22 37
+VMP>Aac<8M5@>VK]JVQ=Ad3
+!s100 WdB49z:?Xe;k:_b:O6Z_F0
+R4
+32
+R35
+!i10b 1
+R36
+R37
+R38
+!i113 1
+R9
+R10

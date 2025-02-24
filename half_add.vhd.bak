@@ -1,0 +1,11 @@
+entity halfadder is 
+port (a,b : in bit;
+      sum,carry : out bit);
+end halfadder;
+
+architecture dataflow of halfadder is
+begin
+
+sum <= a xor b;
+cout <= a and b;
+end dataflow;

@@ -1,0 +1,339 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+Epipo
+Z0 w1739785499
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 3
+Z3 dC:/Users/karti/OneDrive/Desktop/VLSI/registers
+Z4 8C:/Users/karti/OneDrive/Desktop/VLSI/registers/PIPO.vhd
+Z5 FC:/Users/karti/OneDrive/Desktop/VLSI/registers/PIPO.vhd
+l0
+L4 1
+V1CHeFWjg8f]DH]U4AlC@j2
+!s100 zjWa@TH5ATFGeP^3W6@R11
+Z6 OV;C;2020.1;71
+32
+Z7 !s110 1739785502
+!i10b 1
+Z8 !s108 1739785502.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/karti/OneDrive/Desktop/VLSI/registers/PIPO.vhd|
+!s107 C:/Users/karti/OneDrive/Desktop/VLSI/registers/PIPO.vhd|
+!i113 1
+Z10 o-work work -2002 -explicit
+Z11 tExplicit 1 CvgOpt 0
+Abehavioral
+R1
+R2
+DEx4 work 4 pipo 0 22 1CHeFWjg8f]DH]U4AlC@j2
+!i122 3
+l14
+L12 16
+V^4eRB<k[N?AlRz_oekcmR3
+!s100 cC[Pgz_oOf26PokcQ=]AB0
+R6
+32
+R7
+!i10b 1
+R8
+R9
+Z12 !s107 C:/Users/karti/OneDrive/Desktop/VLSI/registers/PIPO.vhd|
+!i113 1
+R10
+R11
+Epipo_tb
+R0
+R1
+R2
+!i122 3
+R3
+R4
+R5
+l0
+L32 1
+VnSDQ21DblMcPAmnahGd>F1
+!s100 J=;n1DN?T<<PRF2<?TRKE0
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R12
+!i113 1
+R10
+R11
+Atest
+R1
+R2
+DEx4 work 7 pipo_tb 0 22 nSDQ21DblMcPAmnahGd>F1
+!i122 3
+l50
+L35 40
+VCe8S]?QFEKcS0X@EYCfKN0
+!s100 PFJ80FKKaAU_B]^JjXU@61
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R12
+!i113 1
+R10
+R11
+Episo
+Z13 w1739785461
+R1
+R2
+!i122 2
+R3
+Z14 8C:/Users/karti/OneDrive/Desktop/VLSI/registers/PISO.vhd
+Z15 FC:/Users/karti/OneDrive/Desktop/VLSI/registers/PISO.vhd
+l0
+L4 1
+VLDHUjB1[ZMQ;;0Dh:`oGJ2
+!s100 `A<:eZjE`A7ngG>chB@H<1
+R6
+32
+Z16 !s110 1739785464
+!i10b 1
+Z17 !s108 1739785464.000000
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/karti/OneDrive/Desktop/VLSI/registers/PISO.vhd|
+Z19 !s107 C:/Users/karti/OneDrive/Desktop/VLSI/registers/PISO.vhd|
+!i113 1
+R10
+R11
+Abehavioral
+R1
+R2
+DEx4 work 4 piso 0 22 LDHUjB1[ZMQ;;0Dh:`oGJ2
+!i122 2
+l14
+L12 19
+V2UOSaa@MJEobWVD2g6ae=2
+!s100 9=WFObVj2??M<Rjz?lh8@1
+R6
+32
+R16
+!i10b 1
+R17
+R18
+R19
+!i113 1
+R10
+R11
+Episo_tb
+R13
+R1
+R2
+!i122 2
+R3
+R14
+R15
+l0
+L35 1
+V8kUR2liH0bRg=N1dbAgmY0
+!s100 j9GBhWl]ikhhlCP91lHhX2
+R6
+32
+R16
+!i10b 1
+R17
+R18
+R19
+!i113 1
+R10
+R11
+Atest
+R1
+R2
+DEx4 work 7 piso_tb 0 22 8kUR2liH0bRg=N1dbAgmY0
+!i122 2
+l53
+L38 40
+VXK<HK9ON^YEiRoYSKRFW11
+!s100 >?A<];jH>6mjmK?PS<iLF2
+R6
+32
+R16
+!i10b 1
+R17
+R18
+R19
+!i113 1
+R10
+R11
+Esipo
+Z20 w1739785431
+R1
+R2
+!i122 1
+R3
+Z21 8C:/Users/karti/OneDrive/Desktop/VLSI/registers/SIPO.vhd
+Z22 FC:/Users/karti/OneDrive/Desktop/VLSI/registers/SIPO.vhd
+l0
+L4 1
+V`NgJh`UkHc2oMkc^L2X3X1
+!s100 [8UeO6RMgKC>RLfDN9mKl2
+R6
+32
+Z23 !s110 1739785435
+!i10b 1
+Z24 !s108 1739785435.000000
+Z25 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/karti/OneDrive/Desktop/VLSI/registers/SIPO.vhd|
+Z26 !s107 C:/Users/karti/OneDrive/Desktop/VLSI/registers/SIPO.vhd|
+!i113 1
+R10
+R11
+Abehavioral
+R1
+R2
+DEx4 work 4 sipo 0 22 `NgJh`UkHc2oMkc^L2X3X1
+!i122 1
+l13
+Z27 L11 15
+V2:FDIckAndeYLV<U4GW5^0
+!s100 eUmIhj`jFM1Q3WA8=g:2n2
+R6
+32
+R23
+!i10b 1
+R24
+R25
+R26
+!i113 1
+R10
+R11
+Esipo_tb
+R20
+R1
+R2
+!i122 1
+R3
+R21
+R22
+l0
+Z28 L30 1
+VbIY>Ge9GAQYiAGL;T<SAJ1
+!s100 3?JdGPX]S>OKWlz7PJh_e1
+R6
+32
+R23
+!i10b 1
+R24
+R25
+R26
+!i113 1
+R10
+R11
+Atest
+R1
+R2
+DEx4 work 7 sipo_tb 0 22 bIY>Ge9GAQYiAGL;T<SAJ1
+!i122 1
+l46
+Z29 L33 37
+V0bfA?dW@kWd>N^XOTaeQO2
+!s100 D<_KbV1Hi;^264321S^SG2
+R6
+32
+R23
+!i10b 1
+R24
+R25
+R26
+!i113 1
+R10
+R11
+Esiso
+Z30 w1739785398
+R1
+R2
+!i122 0
+R3
+Z31 8C:/Users/karti/OneDrive/Desktop/VLSI/registers/SISO.vhd
+Z32 FC:/Users/karti/OneDrive/Desktop/VLSI/registers/SISO.vhd
+l0
+L4 1
+VjNn5Nz40FXm3eP6RmDM[93
+!s100 `^bRkoGH6zk5JZNDDAhH_1
+R6
+32
+Z33 !s110 1739785402
+!i10b 1
+Z34 !s108 1739785402.000000
+Z35 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/karti/OneDrive/Desktop/VLSI/registers/SISO.vhd|
+Z36 !s107 C:/Users/karti/OneDrive/Desktop/VLSI/registers/SISO.vhd|
+!i113 1
+R10
+R11
+Abehavioral
+R1
+R2
+DEx4 work 4 siso 0 22 jNn5Nz40FXm3eP6RmDM[93
+!i122 0
+l13
+R27
+VBh_OGmEoQ9l<;h7gj@gH:0
+!s100 lnVAQzYh9JZ>abBQa`iNk2
+R6
+32
+R33
+!i10b 1
+R34
+R35
+R36
+!i113 1
+R10
+R11
+Esiso_tb
+R30
+R1
+R2
+!i122 0
+R3
+R31
+R32
+l0
+R28
+V[@0co815IBC9@cd`[V>Cj2
+!s100 C:9352^f=SHXYo8>P81P82
+R6
+32
+R33
+!i10b 1
+R34
+R35
+R36
+!i113 1
+R10
+R11
+Atest
+R1
+R2
+DEx4 work 7 siso_tb 0 22 [@0co815IBC9@cd`[V>Cj2
+!i122 0
+l46
+R29
+V1_V9X8Y1l8FIc3o:k<>MN1
+!s100 @fz@cM7ok0eOAbTgQDeXE2
+R6
+32
+R33
+!i10b 1
+R34
+R35
+R36
+!i113 1
+R10
+R11

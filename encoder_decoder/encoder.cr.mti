@@ -1,0 +1,43 @@
+C:/Users/karti/OneDrive/Desktop/VLSI/encoder_decoder/gates.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/karti/OneDrive/Desktop/VLSI/encoder_decoder/gates.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Compiling entity andgate
+-- Compiling architecture abc of andgate
+-- Compiling entity notgate
+-- Compiling architecture wxy of notgate
+-- Compiling entity orgate
+-- Compiling architecture dec of orgate
+
+} {} {}} C:/Users/karti/OneDrive/Desktop/VLSI/encoder_decoder/encoder.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/karti/OneDrive/Desktop/VLSI/encoder_decoder/encoder.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Compiling entity encode
+-- Compiling architecture abc of encode
+-- Compiling entity encodetest
+-- Compiling architecture xyz of encodetest
+
+} {} {}} C:/Users/karti/OneDrive/Desktop/VLSI/encoder_decoder/encod_struc.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/karti/OneDrive/Desktop/VLSI/encoder_decoder/encod_struc.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Compiling entity encstruc
+-- Compiling architecture structural of encstruc
+-- Compiling entity testb_encode
+-- Compiling architecture abc of testb_encode
+
+} {} {}} C:/Users/karti/OneDrive/Desktop/VLSI/decoder.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/karti/OneDrive/Desktop/VLSI/decoder.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Compiling entity decode
+-- Compiling architecture abc of decode
+-- Compiling entity testb_decode
+-- Compiling architecture wyx of testb_decode
+
+} {} {}} C:/Users/karti/OneDrive/Desktop/VLSI/encoder_decoder/decod_struc.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/karti/OneDrive/Desktop/VLSI/encoder_decoder/decod_struc.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Compiling entity decodestruc
+-- Compiling architecture structural of decodestruc
+-- Compiling entity decodestruc_tb
+-- Compiling architecture abc of decodestruc_tb
+
+} {} {}}

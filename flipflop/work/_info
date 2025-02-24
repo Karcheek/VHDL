@@ -1,0 +1,331 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/karti/OneDrive/Desktop/VLSI/encoder_decoder
+Edff
+Z0 w1739783911
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 3
+Z3 dC:/Users/karti/OneDrive/Desktop/VLSI/flipflop
+Z4 8C:/Users/karti/OneDrive/Desktop/VLSI/flipflop/d.vhd
+Z5 FC:/Users/karti/OneDrive/Desktop/VLSI/flipflop/d.vhd
+l0
+L4 1
+V:CnBd9[F^]m0ShdF?kc^M2
+!s100 G`0J0z:lEUiZ46UhP^jQa3
+Z6 OV;C;2020.1;71
+32
+Z7 !s110 1739783914
+!i10b 1
+Z8 !s108 1739783914.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/karti/OneDrive/Desktop/VLSI/flipflop/d.vhd|
+!s107 C:/Users/karti/OneDrive/Desktop/VLSI/flipflop/d.vhd|
+!i113 1
+Z10 o-work work -2002 -explicit
+Z11 tExplicit 1 CvgOpt 0
+Abehavior
+R1
+R2
+DEx4 work 3 dff 0 22 :CnBd9[F^]m0ShdF?kc^M2
+!i122 3
+l15
+L14 15
+VNJkS?SZ>84ii5S3IlJ`>j2
+!s100 =L<^UWK]<GXUK1eK^@3DT1
+R6
+32
+R7
+!i10b 1
+R8
+R9
+Z12 !s107 C:/Users/karti/OneDrive/Desktop/VLSI/flipflop/d.vhd|
+!i113 1
+R10
+R11
+Edff_tb
+R0
+R1
+R2
+!i122 3
+R3
+R4
+R5
+l0
+L33 1
+V80`6Cm<Z>`6zFNT50eBP`0
+!s100 mk?[No]Sz<Zm:SaU]M2Kl3
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R12
+!i113 1
+R10
+R11
+Atb
+R1
+R2
+DEx4 work 6 dff_tb 0 22 80`6Cm<Z>`6zFNT50eBP`0
+!i122 3
+l49
+L36 35
+VO6dJoCN[WZ]=`PT_XOe^;3
+!s100 C^`476naA?2A0H@WdMBYZ1
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R12
+!i113 1
+R10
+R11
+Ejk_ff
+Z13 w1739783816
+!i122 0
+R3
+Z14 8C:/Users/karti/OneDrive/Desktop/VLSI/flipflop/jk.vhd
+Z15 FC:/Users/karti/OneDrive/Desktop/VLSI/flipflop/jk.vhd
+l0
+L1 1
+VEEST4ad72?ZYj[RVBjYBS1
+!s100 oVFQ1iCcO^?6=baoN9f8W0
+R6
+32
+Z16 !s110 1739783821
+!i10b 1
+Z17 !s108 1739783821.000000
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/karti/OneDrive/Desktop/VLSI/flipflop/jk.vhd|
+Z19 !s107 C:/Users/karti/OneDrive/Desktop/VLSI/flipflop/jk.vhd|
+!i113 1
+R10
+R11
+Abehavioral
+DEx4 work 5 jk_ff 0 22 EEST4ad72?ZYj[RVBjYBS1
+!i122 0
+l14
+L12 21
+V6Cl6`6im[4zYacW9TmMzm0
+!s100 X?<^z7baCn=gbo:;D04eb2
+R6
+32
+R16
+!i10b 1
+R17
+R18
+R19
+!i113 1
+R10
+R11
+Ejkff_tb
+R13
+!i122 0
+R3
+R14
+R15
+l0
+L34 1
+VIaDo2C>5Dfne=PM>SomRe3
+!s100 6CB[4>Q4la:?VfalDKJe62
+R6
+32
+R16
+!i10b 1
+R17
+R18
+R19
+!i113 1
+R10
+R11
+Atb
+DEx4 work 7 jkff_tb 0 22 IaDo2C>5Dfne=PM>SomRe3
+!i122 0
+l53
+L37 64
+V<0Lo;fO`D6d=IL<QjQT7l3
+!s100 3bQlfXoPS^H1Ef7TogZLN2
+R6
+32
+R16
+!i10b 1
+R17
+R18
+R19
+!i113 1
+R10
+R11
+Esr_ff
+Z20 w1739783855
+R1
+R2
+!i122 1
+R3
+Z21 8C:/Users/karti/OneDrive/Desktop/VLSI/flipflop/sr.vhd
+Z22 FC:/Users/karti/OneDrive/Desktop/VLSI/flipflop/sr.vhd
+l0
+L4 1
+Vz:7[UnBHC2DCQM_g;^BXV2
+!s100 zZF^3<o^4HeEmQ596^Neg1
+R6
+32
+Z23 !s110 1739783858
+!i10b 1
+Z24 !s108 1739783858.000000
+Z25 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/karti/OneDrive/Desktop/VLSI/flipflop/sr.vhd|
+Z26 !s107 C:/Users/karti/OneDrive/Desktop/VLSI/flipflop/sr.vhd|
+!i113 1
+R10
+R11
+Abehavioral
+R1
+R2
+DEx4 work 5 sr_ff 0 22 z:7[UnBHC2DCQM_g;^BXV2
+!i122 1
+l15
+L13 24
+Ve>V7a?c[7n_N933Y[>J7`0
+!s100 :jRdi]R<O`z:X1lFYd56N0
+R6
+32
+R23
+!i10b 1
+R24
+R25
+R26
+!i113 1
+R10
+R11
+Esrff_tb
+R20
+R1
+R2
+!i122 1
+R3
+R21
+R22
+l0
+L41 1
+Vm[m2XWdBicXD>khei@H6g1
+!s100 bU6Z:`V_CCDfAQddlOACk1
+R6
+32
+R23
+!i10b 1
+R24
+R25
+R26
+!i113 1
+R10
+R11
+Atb
+R1
+R2
+DEx4 work 7 srff_tb 0 22 m[m2XWdBicXD>khei@H6g1
+!i122 1
+l61
+L44 61
+VXAdCf2;H?iQF5nHz56?Mm2
+!s100 ?=TSUFLa^YkLDMIQXKYh=1
+R6
+32
+R23
+!i10b 1
+R24
+R25
+R26
+!i113 1
+R10
+R11
+Etff
+Z27 w1739783881
+R1
+R2
+!i122 2
+R3
+Z28 8C:/Users/karti/OneDrive/Desktop/VLSI/flipflop/t.vhd
+Z29 FC:/Users/karti/OneDrive/Desktop/VLSI/flipflop/t.vhd
+l0
+L4 1
+VKP=Gh[a?0Y<>C7iD7NRki0
+!s100 ef>F`>Si<4m2U564RE7IQ2
+R6
+32
+Z30 !s110 1739783884
+!i10b 1
+Z31 !s108 1739783884.000000
+Z32 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/karti/OneDrive/Desktop/VLSI/flipflop/t.vhd|
+Z33 !s107 C:/Users/karti/OneDrive/Desktop/VLSI/flipflop/t.vhd|
+!i113 1
+R10
+R11
+Abehavior
+R1
+R2
+DEx4 work 3 tff 0 22 KP=Gh[a?0Y<>C7iD7NRki0
+!i122 2
+l16
+L14 17
+VBT[0CKO;[KNlaOg=^h0=00
+!s100 mE82e;=P?PY7XCFY>cNW81
+R6
+32
+R30
+!i10b 1
+R31
+R32
+R33
+!i113 1
+R10
+R11
+Etff_tb
+R27
+R1
+R2
+!i122 2
+R3
+R28
+R29
+l0
+L35 1
+V:KXTIRkV<2CJVZNiT]dif2
+!s100 mMH7;hJ3`Mgb;ddhbQ^i10
+R6
+32
+R30
+!i10b 1
+R31
+R32
+R33
+!i113 1
+R10
+R11
+Atb
+R1
+R2
+DEx4 work 6 tff_tb 0 22 :KXTIRkV<2CJVZNiT]dif2
+!i122 2
+l51
+L38 35
+VM6HHcS379I;R@Sckee;9T0
+!s100 mG9PZzCZ?ln3FjJl=Sbjd3
+R6
+32
+R30
+!i10b 1
+R31
+R32
+R33
+!i113 1
+R10
+R11
