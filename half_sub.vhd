@@ -20,7 +20,7 @@ end component;
 
 signal a,b,d,dout:bit;
 begin 
-I1 : halfsub port map (a,b,d,dout);
+I1 : halfsub port map (a,b,d,bout);
 process 
 begin
  
